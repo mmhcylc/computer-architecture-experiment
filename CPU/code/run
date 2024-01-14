@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -ex
+
+cmake -B build -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release
+
+/code/build/kdline 6 1000 /data/000000.txt
+
+/code/build/baseline 1000 /data/000000.txt
+

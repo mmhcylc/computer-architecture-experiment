@@ -1,0 +1,21 @@
+metadata_version: 1
+name: '​Supplementary code for: QuickFPS: Architecture and Algorithm Co-Design for
+  Farthest Point Sampling in Large-Scale Point Clouds'
+description: 'code for QuickFPS: Architecture and Algorithm Co-Design for Farthest
+  Point Sampling in Large-Scale Point Clouds'
+tags:
+- Pointcloud
+- Farthest point sampling
+authors:
+- name: Meng Han
+  affiliations:
+  - name: Beihang University
+- name: Liang Wang
+  affiliations:
+  - name: Beihang University
+- name: Limin Xiao
+  affiliations:
+  - name: Beihang University
+- name: HaoZhang
+  affiliations:
+  - name: Beihang University
